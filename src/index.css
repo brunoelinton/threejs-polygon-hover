@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.text-white {
+  color: white;
+}
+
